@@ -1,0 +1,17 @@
+/* add your styles here */
+.app_1 {
+    display:flex;
+    flex-wrap: wrap;
+    padding-left: 20px;
+    justify-content: center;
+}
+img {
+    width: 400px;
+    height: 400px;
+    padding: 10px;
+
+}
+h1{
+    text-align: center;
+    color: black;
+}
